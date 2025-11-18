@@ -1,6 +1,8 @@
 #include <iostream>
 int main()
 {
-    std::cout<<"hbfhwbghgejghjwnbnbjbnjhthnnvjnrugjvreujrf ibnrfjrhgaubwafbfj;fffffff";
+    int aga=18;
+    
+    std::cout<<"my name is wafa \n"<<"I am " <<aga<<"years old";
     return 0;
 }
