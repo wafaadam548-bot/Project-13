@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
 {
-    std::cout<<"hgggccf";
+    std::cout<<"hbfhwbghgejghjwnbnbjbnjhthnnvjnrugjvreujrf ibnrfjrhgaubwafbfj;fffffff";
+    return 0;
 }
