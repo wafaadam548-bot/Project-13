@@ -1,6 +1,6 @@
 # include <iostream>
 int main(){
-    again=1;
+    int again=1;
     while (again==1)
     {
         std::cout<<"________________________________________________________+\n";
