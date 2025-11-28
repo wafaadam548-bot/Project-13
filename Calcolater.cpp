@@ -48,6 +48,7 @@ int main(){
         std::cout<<"Do you want to start again =): (1 = Yes, 0 = No): ";
         std:: cin>>again;
         std::cout << "Thank you for using our Calculator app! Goodbye =)";
+        
 
     
         
