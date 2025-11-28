@@ -291,7 +291,7 @@ int main() {
         std::cout << "9_" << contory9 << "\n";
         std::cout << "10_" << contory10 << "\n";
         std::cout << "11_" << contory11 << "\n";
-        std::cin >> contorys2;
+        std::cin >> contorys;
 
         std::cout << "Please enter the amount: ";
         int coin1;
